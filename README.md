@@ -1,2 +1,2 @@
 # Recepi.js
-Recepi.js manages personal recepees and creates shopping lists
+Recepi.js manages personal recipes and creates shopping lists
